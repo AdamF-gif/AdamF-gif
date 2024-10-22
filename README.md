@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebDev and CloudComputing
 - 🌱 I’m currently learning HTML,Java,JS,
 - 💞️ I’m looking to collaborate on SimpleWebDeveloping
-- 📫 How to reach me Newcitykings@Hotmail.com
+- 📫
 
 <!---
 AdamF-gif/AdamF-gif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
